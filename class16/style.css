@@ -1,0 +1,20 @@
+h1{
+    background-color: blue;
+}
+h2, span{
+    background-color:purple ;
+    display: inline;
+}
+.s1{
+    width: 400px;
+    margin: auto;
+    border: 3px solid greenyellow;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.s2{
+    margin-top:50px ;
+    max-width: 700px;
+    margin: auto;
+    border: 3px solid chocolate ;
+}
