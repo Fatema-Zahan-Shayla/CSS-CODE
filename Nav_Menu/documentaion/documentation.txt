@@ -1,0 +1,3 @@
+
+
+Note: Here I'm going to desiging a simple navMenu....Using only html and css...I'v used here flex layout.....
